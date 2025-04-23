@@ -1,0 +1,43 @@
+no = int(input("Enter a number between 0 to 19 : "))
+if(no==0):
+    print("Zero")
+elif(no==1):
+    print("one")
+elif(no==2):
+    print("two")
+elif(no==3):
+    print("three")
+elif(no==4):
+    print("four")
+elif(no==5):
+    print("five")
+elif(no==6):
+    print("six")
+elif(no==7):
+    print("seven")
+elif(no==8):
+    print("eight")
+elif(no==9):
+    print("nine")
+elif(no==10):
+    print("ten")
+elif(no==11):
+    print("eleven")
+elif(no==12):
+    print("twelve")
+elif(no==13):
+    print("thirteen")
+elif(no==14):
+    print("fourteen")
+elif(no==15):
+    print("fifteen")
+elif(no==16):
+    print("sixteen")
+elif(no==17):
+    print("seventeen")
+elif(no==18):
+    print("eighteen")
+elif(no==19):
+    print("nineteen")
+else:
+    print("Invalid number.")
