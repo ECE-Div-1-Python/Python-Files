@@ -1,0 +1,6 @@
+‘r’ – for reading purpose in text mode
+‘w’ – for writing purpose in text mode
+‘a’ – for appending the data in the existing file in text mode.
+‘r+’ – for reading and writing purposes in text mode.
+‘w+’ – for writing and reading purposes in text mode.
+‘a+’ – for appending and reading the data in text mode.
