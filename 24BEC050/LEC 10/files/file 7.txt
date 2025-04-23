@@ -1,0 +1,1 @@
+{"empcode": 108, "empname": "Divyam Patel", "Date_of_Joining": "2024-06-10", "Salary": 100000}

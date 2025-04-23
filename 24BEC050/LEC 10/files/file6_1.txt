@@ -1,0 +1,4 @@
+Functional programming is a style where:
+Functions are treated like first-class citizens
+There's no side effect (ideally)
+Emphasis is on what to do, not how to do it
