@@ -1,0 +1,6 @@
+t1 = (1,5,3,4)
+print("Original tuple : ",t1)
+l1 = list(t1)
+l1.pop(1)
+t1 = tuple(l1)
+print("Delete element tuple : ",t1)
