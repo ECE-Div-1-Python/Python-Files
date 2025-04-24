@@ -1,0 +1,4 @@
+As you know that we need to convert other than string data types to string data type before writing (Refer Read/ Write operations), and if the data is in the form of set, dictionary or tuple, this task becomes more cumbersome. In such cases, use a module called json.
+Serialization: json module converts Python data type into appropriate JSON types before writing data to a file. Likewise, it converts JSON types read from a file into Python data (Deserialization).
+Serialization of a Python type to JSON data is done using a function dump(). It writes the serialized data to a file.
+Deserialization of a JSON data to a Python type is done using a function load(). It reads the data from a file, converts the data and returns the converted data.

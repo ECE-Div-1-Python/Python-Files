@@ -1,0 +1,19 @@
+1. Write program to create csv file that we c directly open in MS-Excel.
+
+2. Read dat stored in MS-Excel file nd convert it into dictionary. record contains rollno, name of student, marks of three subjects. lso calculate total. Display dictionary dat on monitor.
+
+3. ccept contact details from user nd create vcard that we c directly store in our mobile.
+
+4. Create specific subdirectory nd copy one file from nother subdirectory to this newly created subdirectory.
+
+5. Write program to copy contents of one file to nother. While doing so, replace ll lowercase characters into uppercase characters.
+
+6. Write program that merges lines lternatively from two files nd writes results to new file. If one file has less number of lines th other, remaining lines from larger file should be simply copied into target file.
+
+7. If Employee object contains following details:
+
+empcode, empname, Date of Joining, Salary
+
+Write program to serialize nd deserialize this data.
+
+8. Given text file, write program to create nother text file deleting words ‘a’, ‘the’, ‘an’ nd replacing each one of m with blank space.

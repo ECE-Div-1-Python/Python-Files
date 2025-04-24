@@ -1,0 +1,10 @@
+def q5():
+    f_in=open("5_input.txt",'r')
+    f_out=open("5_output.txt",'w')
+    data=f_in.read()
+    data=data.upper()
+    f_out.write(data)
+    f_in.close()
+    f_out.close()
+    print("Done writing")
+q5()
