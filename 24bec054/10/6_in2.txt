@@ -1,0 +1,9 @@
+rb’ – for reading purpose in binary mode
+‘wb’ – for writing purpose in binary mode
+‘ab’ – for appending the data in the existing file in binary mode.
+‘rb+’ – for reading and writing purposes in binary mode.
+‘wb+’ – for writing and reading purposes in binary mode.
+‘ab+’ – for appending and reading the data in binary mode.
+Opening a file brings its contents to a buffer in memory.
+The default file-opening-mode argument is ‘r’.
+While opening a file for writing, if the file already exists, it is overwritten.
