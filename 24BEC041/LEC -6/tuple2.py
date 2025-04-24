@@ -1,5 +1,5 @@
 def l():
-    a=("24bcl007",18,18,17,18,'24bcl082','24bcl050','24bcl031','neel','PARISHMITA','shyam','manav')
+    a=("24bcl007",18,18,17,18,'24bec082','24bec050','24bec031','neel','PARISHMITA','shyam','manav')
     name=[]
     age=[]
     roll=[]
