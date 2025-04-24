@@ -1,8 +1,8 @@
-def piplup():
-    x=('kaju','carrot','ditto')
+def flareon():
+    x=('kaju','carrot','badam')
     y=list(x)
-    y.append('batka')
+    y.append('fruit')
     z=tuple(y)
     print(z) 
-piplup()
+flareon()
 
