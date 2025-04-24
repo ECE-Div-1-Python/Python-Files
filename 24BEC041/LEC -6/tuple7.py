@@ -1,5 +1,5 @@
 def piplup():
-    x=('kaju','carrot','ditto')
+    x=('kaju','carrot','badam')
     y=list(x)
     for i in y:
         if i=='carrot':
