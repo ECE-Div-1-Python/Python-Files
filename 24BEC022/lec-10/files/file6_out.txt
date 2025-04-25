@@ -1,0 +1,7 @@
+Functional programming is a style where:
+map()	Applies a function to each item
+Functions are treated like first-class citizens
+filter()	Filters items by a condition
+There's no side effect (ideally)
+reduce()	Reduces list to a single value
+Emphasis is on what to do, not how to do it
