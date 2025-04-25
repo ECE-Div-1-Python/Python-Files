@@ -1,0 +1,6 @@
+a=int(input("Enter num 1\n"))
+b=int(input("Enter num 2\n"))
+print("addition : ",a+b)
+print("subtraction : ",a-b)
+print("product : ",a*b)
+print("quotient : ",a/b)

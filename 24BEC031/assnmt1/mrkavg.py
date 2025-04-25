@@ -1,0 +1,5 @@
+L=float(input("Enter sub1 marks \n"))
+B=float(input("Enter sub2 marks \n"))
+H=float(input("Enter sub3 marks \n"))
+print("Avg : ",(L+B+H)/3)
+print("Total : ",(L+B+H))

@@ -1,0 +1,2 @@
+rup=float(input("Enter value in ruppees \n"))
+print("Value in Dollars = ",rup/48)

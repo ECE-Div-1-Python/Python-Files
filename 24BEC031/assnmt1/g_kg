@@ -1,0 +1,2 @@
+g=float(input("Enter weight in grams \n"))
+print("Weight in kilograms = ",g/1000)
